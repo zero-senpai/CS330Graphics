@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\jakeb\Downloads\CS330Mod2\CS330Content\Projects\7-1_FinalProjectMilestones\Release\7-1_FinalProjectMilestones.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\jakeb\Downloads\CS330Mod2\CS330Content\Projects\7-1_FinalProjectMilestones\Utilities\textures\keys.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
